@@ -1,6 +1,6 @@
 first_number = 1
 second_number = 2 
-def calculator  
+def sum(num1, num2)
  sum = first_number + second_number
    return sum
  difference = first_number - second_number
