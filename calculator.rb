@@ -11,6 +11,11 @@ def subtraction(num1, num2)
 end
 difference = subtraction(first_number, second_number)
 
+def multiply(num1, num2)
+  return num1 * num2
+end
+product = multiply(first_number, second_number)
+
 
  
 
